@@ -1,3 +1,10 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# Maven
 target/
 pom.xml.tag
 pom.xml.releaseBackup
